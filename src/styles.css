@@ -58,7 +58,7 @@
     align-items: center;
     flex-direction: column;
     background-color: rgba(245, 245, 220, 0.575);
-    width: 500px;
+    width: 400px;
     border-radius: 8px;
 }
 
@@ -80,7 +80,20 @@
         font-size: 28px;
     }
     .main {
-        width: 70%;
+        width: 60%;
         min-height: 250px;
     }
+@media (max-width: 416px){
+    .title{
+        font-size: 50px;
+    }
+}
+@media (max-width: 347px){
+    .title{
+        font-size: 40px;
+    }
+    .main h2{
+        font-size: 20px;
+    }
+}
 }
