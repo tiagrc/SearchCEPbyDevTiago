@@ -22,7 +22,7 @@ O sistema pode incluir uma etapa de validação do CEP inserido para garantir qu
 Para proteger a privacidade dos usuários, o projeto deve adotar medidas de segurança para garantir que as informações consultadas sejam transmitidas de forma segura e que os dados dos usuários sejam protegidos.
 
 # Acesse o projeto aqui
-[Clique aqui ⬅](https://buscacepbydevtiago-2a2j9qai0-tiagos-projects-e4887633.vercel.app/)
+[Clique aqui ⬅](https://buscacepbytiago.vercel.app/)
 
 
 # Links úteis 
